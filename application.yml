@@ -1,1 +1,4 @@
 welcome: Default welcome v3
+spring:
+ profiles:
+  active: QA
