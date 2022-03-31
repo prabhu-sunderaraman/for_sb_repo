@@ -1,1 +1,4 @@
 welcome: Default welcome from hello-api
+spring:
+ profiles:
+  active: QA
